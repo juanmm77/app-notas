@@ -6,6 +6,7 @@
 - Al 2026-11-02 se aprobaron la planificación y la creación de este archivo y de `docs/REQUIREMENTS.md`, `docs/ARCHITECTURE.md` y `docs/PLAN.md`.
 - Posteriormente el usuario autorizó el primer bloque de implementación: preparar el proyecto Android, interfaz, crear/renombrar temáticas, escribir/editar/eliminar notas de texto, persistencia local, comprobaciones y un APK de prueba. Esta autorización reemplaza la restricción inicial de solo planificación para ese bloque.
 - No ampliar esta entrega a adjuntos, compartir, huella ni Drive. Posteriormente el usuario autorizó subir este bloque a su GitHub y eligió crear el repositorio privado `app-notas`; esa instrucción autoriza el commit inicial y la subida correspondiente.
+- El 2026-11-02 el usuario cambió esa decisión y solicitó que `app-notas` sea público. La visibilidad pública reemplaza la elección privada inicial y autoriza actualizar las referencias documentales correspondientes.
 - Conversar en español y mantener explicaciones claras. Consultar una decisión importante por vez y aprovechar las respuestas ya registradas.
 
 ## Fuente de verdad

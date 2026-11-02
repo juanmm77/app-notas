@@ -6,7 +6,7 @@ Aplicación Android personal de notas por temática, con conversaciones de texto
 
 [Descargar la versión de prueba en GitHub](https://github.com/juanmm77/app-notas/releases/tag/v0.1.0).
 
-El repositorio es privado: necesitás iniciar sesión con una cuenta autorizada. El APK se distribuye como archivo adjunto de la versión; no se guarda en el historial del código.
+El repositorio es público. El APK se distribuye como archivo adjunto de la versión; no se guarda en el historial del código.
 
 Archivo: `dist/Notas-0.1.0-prueba.apk` (62.709.775 bytes, aproximadamente 60 MiB). Firma de depuración verificada y mínimo Android 11 comprobado en el manifiesto. SHA-256 disponible en `dist/SHA256SUMS.txt`.
 

@@ -166,3 +166,5 @@ Durante el empaquetado se corrigieron la generación de la clave de prueba y el 
 El usuario autorizó subir el proyecto y eligió un repositorio nuevo privado llamado `app-notas`. Se verificó la sesión de `juanmm77` y la disponibilidad del nombre. La preparación incluye código, documentación, pruebas y capturas; el APK se distribuye en la versión preliminar `v0.1.0`.
 
 Se excluyen herramientas descargadas, cachés, rutas locales y claves de firma. Esta autorización cubre inicializar Git, crear el commit inicial, el repositorio privado y subir los archivos de esta entrega; no amplía el alcance funcional de la app.
+
+El 2026-11-02 el usuario solicitó cambiar el repositorio a público. Esa decisión reemplaza la visibilidad privada inicial; el código, documentación, capturas y versión de prueba pasan a ser accesibles públicamente. Las claves y herramientas locales permanecen excluidas.
