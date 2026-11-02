@@ -1,0 +1,21 @@
+NOTAS 0.1.0 - APK DE PRUEBA
+
+Requiere Android 11 o posterior.
+
+1. Copiá Notas-0.1.0-prueba.apk al teléfono.
+2. Abrilo desde la aplicación de archivos.
+3. Si Android lo solicita, permití instalar desde esa aplicación.
+4. Creá una temática y escribí tus notas.
+
+Mantené presionada una nota para editarla o eliminarla. Usá el lápiz
+del encabezado para renombrar la temática. Los colores siguen el
+modo claro u oscuro del teléfono.
+
+Esta entrega guarda texto localmente. Todavía no incluye adjuntos,
+huella ni copias en Drive. Desinstalar o borrar datos elimina las notas.
+
+El APK tiene firma de depuración. Se ejecutaron 17 pruebas locales
+con resultado aprobado. Falta comprobarlo en tu Redmi físico.
+
+Las capturas de la carpeta vistas provienen del entorno de pruebas.
+La app se instala sin notas de ejemplo.

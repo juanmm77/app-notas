@@ -1,0 +1,12 @@
+.tools/
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.jks
+*.keystore
+.idea/
+captures/
+dist/*.apk
+*.hprof
+*.log
